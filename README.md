@@ -6,6 +6,7 @@
 [[PDF](./assets/2506.24061v1.pdf)]
 [[Arxiv](https://arxiv.org/abs/2506.24061)]
 [[SUN Lab](https://www.socialurban.net)]
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22004293.svg)](https://doi.org/10.5281/zenodo.22004293)
 
 <!-- insert figure -->
 <img src="assets/fig1.png" width="800px"/>
